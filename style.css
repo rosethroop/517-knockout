@@ -1,0 +1,32 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #f2f2f2;
+	text-align: center;
+}
+
+
+.text{
+font:                           12vw 'Shrikhand';
+text-align:                     center;
+font-size: 20vw;
+
+margin:                         0;
+background:                     url("images/20220730_throop_harborfest_04482.jpg") center;
+background-size:                cover;
+margin:                         auto;
+width:                          100vw;
+background-clip:                text;
+-webkit-background-clip:        text;
+color:                          transparent;
+padding:                        0;
+line-height:                   100vh;
+}
+ 
